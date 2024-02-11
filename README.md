@@ -32,5 +32,5 @@ The sample size (n) is calculated using the formula: n = Z^2 * p * (1-p) / E^2, 
 Among the sampling techniques, Bootstrap Sampling proves to be the most effective in this scenario.
 
 
-Saanvi Sharma (102103699)
-3CO25
+Pulkit Sanan (102103239)
+3CO9
